@@ -1,5 +1,5 @@
 # potentio
-불 깜빡깜빡 하는거
+아날로그 뭐시기 불 깜빡깜빡 하는거
 ```cpp
 void setup() {
   // put your setup code here, to run once:
